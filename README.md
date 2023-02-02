@@ -1,4 +1,5 @@
 # Hi there, I'm Nazlı!
+I am currently learning Machine Learning and Data Science.
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=FatimeNazliAs&show_icons=true&theme=radical" />
 

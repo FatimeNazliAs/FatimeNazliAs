@@ -1,7 +1,9 @@
 # Hi there, I'm Nazlı!
 
 Hi, I am Nazlı, a Senior Computer Engineering Student who have experience and a passion for Artificial Intelligence. 
+
 I am seeeking to apply my skills mainly in a Data Scientist, Machine Learning, and Deep Learning Developer role. 
+
 I specialize in Python and have an experience working with C#, Javascript. 
 
 Take a look at my work or get in touch with f.nazlias@gmail.com

@@ -1,12 +1,12 @@
 # Hi there, I'm Nazlı!
 
-Hi, I am Nazlı, a Senior Computer Engineering Student who have experience and a passion for Artificial Intelligence. 
+Hi, I am Nazlı, a Senior Computer Engineering Student with experience and a passion for Artificial Intelligence. 
 
-I am seeeking to apply my skills mainly in a Data Scientist, Machine Learning, and Deep Learning Developer role. 
+I am seeking to apply my skills mainly in a Data Scientist, Machine Learning, and Deep Learning Developer role. 
 
-I specialize in Python and have an experience working with C#, Javascript. 
+I am learning Java and have experience working with C#, Javascript, MongoDB, and PostgreSQL. 
 
-Take a look at my work or get in touch with f.nazlias@gmail.com
+Please take a look at my work or get in touch with f.nazlias@gmail.com
 
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=FatimeNazliAs&show_icons=true&theme=radical" />

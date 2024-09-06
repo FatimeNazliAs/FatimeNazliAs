@@ -5,11 +5,13 @@ I'm a **fresh graduate** with a degree in **Computer Engineering**, passionate a
 ---
 
 ### 👨‍💻 Technologies I Work With:
-- **Languages**: Python, Java, SQL, HTML
-- **Databases**: PostgreSQL, MySQL
-- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn
-- **Tools**: Git, Github, Jupyter Notebook
-- **Currently learning**: Advanced SQL, Deep Learning, and Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 ---
 
@@ -26,8 +28,8 @@ I'm a **fresh graduate** with a degree in **Computer Engineering**, passionate a
 
 
 ### 🔗 Let's Connect:
-- [**LinkedIn**][(https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/fatimenazlias/)
-- [**Medium**][(https://medium.com/@yourprofile)](https://medium.com/@fatimenazlias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimenazlias)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fatimenazlias)
 - 📧 Email: fatimenazlias@gmail.com
 
 ---

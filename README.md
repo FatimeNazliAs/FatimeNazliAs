@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nazli As.
 
-- **Fresh graduate** with a degree in **Computer Engineering**
+- **AI Engineer** at Newky
 - Passionate about **Data Science** and **Artificial Intelligence**
 - Love building solutions using **Python**
 - Enjoy exploring new tools and technologies in the **AI** space

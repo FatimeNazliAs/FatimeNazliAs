@@ -18,13 +18,6 @@
 
 
 
-### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatimeNazliAs&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimeNazliAs&layout=compact)
-
-
-
-
 ### 💡 What I'm Learning Now:
 - **Advanced SQL**: Expanding my knowledge on subqueries, window functions, and optimization techniques.
 - **Artificial Intelligence**: Diving deeper into **machine learning**, **deep learning**, and their applications in real-world scenarios.

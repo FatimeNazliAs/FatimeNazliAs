@@ -1,10 +1,9 @@
 # Hi there 👋 I'm Nazli As.
 
 - **AI Engineer** at Newky
-- Passionate about **Data Science** and **Artificial Intelligence**
+- Passionate about **Data Science** and **Machine Learning**
 - Love building solutions using **Python**
 - Enjoy exploring new tools and technologies in the **AI** space
-
 
 
 
@@ -13,14 +12,12 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+- ### 💡 What I'm Learning Now:
+- **Artificial Intelligence**: Diving deeper into **machine learning**,and **large language models (LLMs)** to understand their real-world applications.
+- Exploring deployment-ready projects, such as chatbots, to bring AI solutions to life.
 
-
-### 💡 What I'm Learning Now:
-- **Advanced SQL**: Expanding my knowledge on subqueries, window functions, and optimization techniques.
-- **Artificial Intelligence**: Diving deeper into **machine learning**, **deep learning**, and their applications in real-world scenarios.
 
 
 

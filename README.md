@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Nazli As.
 
 - **AI Engineer** at Newky
-- Passionate about **Data Science** and **Machine Learning**
+- Passionate about **Machine Learning** and **LLMs**
 - Love building solutions using **Python**
 - Enjoy exploring new tools and technologies in the **AI** space
 

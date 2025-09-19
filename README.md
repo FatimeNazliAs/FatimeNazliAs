@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nazli As.
 
-- **AI Engineer** at Newky
+- **AI Focused Master Student** at Cukurova University
 - Passionate about **Machine Learning** and **LLMs**
 - Love building solutions using **Python**
 - Enjoy exploring new tools and technologies in the **AI** space
